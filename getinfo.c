@@ -2,7 +2,7 @@
 
 /**
  * clear_info - initializes info_t struct
- * @info: struct address
+ * @info: address for struct
  */
 void clear_info(info_t *info)
 {
